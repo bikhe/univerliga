@@ -76,7 +76,7 @@
 
 ### Шаг 1: Клонирование репозитория
 ```bash
-git clone <ваш_репозиторий>
+git clone https://github.com/bikhe/univerliga.git
 cd feedbackhub
 ```
 
